@@ -59,3 +59,5 @@ Dataset → Data Cleaning → Feature Engineering → Scaling → K-Means Cluste
 ## Output
 
 The project provides customer segments that can help businesses understand customer behavior and develop targeted marketing strategies.
+
+<img width="1465" height="820" alt="dashboard png" src="https://github.com/user-attachments/assets/0e0807fc-8e2b-4e6a-be77-5c3096738122" />
